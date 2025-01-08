@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DisainForm</string>
+    <string name="correo_electr_nico">Correo Electrónico</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registarse">Registarse</string>
+    <string name="nombre">Nombre</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+</resources>
